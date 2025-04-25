@@ -1,1 +1,2 @@
 # Marketing-Analysis-Project 
+Analyzed business challenges related to low conversion rates and customer feedback. Utilized SQL for data extraction and Python for sentiment analysis to classify customer reviews into positive, negative, and neutral categories. Reviewed conversion trends and social media engagement metrics. Delivered actionable insights through an interactive Power BI dashboard and a comprehensive PowerPoint presentation.
